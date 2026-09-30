@@ -1,0 +1,8 @@
+{
+  "name": "kbc-moments",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Moments, not offers: a scalable life-moment personalisation PoC for KBC",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=18" }
+}
